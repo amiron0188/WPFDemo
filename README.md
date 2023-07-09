@@ -8,4 +8,5 @@ IDE: vs 2022
 ```
 
 ## 目录
-- WPFDemo1 基础布局
+- WPFDemo1 布局基础
+- WPFDemo2 样式基础
