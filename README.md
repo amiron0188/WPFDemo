@@ -13,3 +13,4 @@ IDE: vs 2022
 - WPFDemo3 控件模板
 - WPFDemo4 数据模板
 - WPFDemo5 绑定
+- WPFDemo6 命令(ICommand)
