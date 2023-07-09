@@ -5,6 +5,7 @@
 ```
 IDE: vs 2022
 环境: .Net6
+依赖: ReactiveUI、ReactiveUI.Fody
 ```
 
 ## 目录
@@ -15,3 +16,4 @@ IDE: vs 2022
 - WPFDemo5 绑定
 - WPFDemo6 命令(ICommand)
 - WPFDemo7 通知
+- WPFDemo8 ReactiveUI

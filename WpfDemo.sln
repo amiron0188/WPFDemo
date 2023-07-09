@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFDemo6", "WPFDemo6\WPFDem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFDemo7", "WPFDemo7\WPFDemo7.csproj", "{FCE0A984-A313-4E48-AED8-68CD327FBD8B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFDemo8", "WPFDemo8\WPFDemo8.csproj", "{80B44029-8842-47E4-8DB0-4CD0E7138787}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{FCE0A984-A313-4E48-AED8-68CD327FBD8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCE0A984-A313-4E48-AED8-68CD327FBD8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCE0A984-A313-4E48-AED8-68CD327FBD8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80B44029-8842-47E4-8DB0-4CD0E7138787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80B44029-8842-47E4-8DB0-4CD0E7138787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80B44029-8842-47E4-8DB0-4CD0E7138787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80B44029-8842-47E4-8DB0-4CD0E7138787}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
