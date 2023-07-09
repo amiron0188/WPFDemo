@@ -5,7 +5,7 @@
 ```
 IDE: vs 2022
 环境: .Net6
-依赖: ReactiveUI、ReactiveUI.Fody
+依赖: ReactiveUI.WPF、ReactiveUI.Fody
 ```
 
 ## 目录
