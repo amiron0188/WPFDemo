@@ -1,0 +1,19 @@
+﻿<Window x:Class="WPFDemo5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFDemo5"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <Slider x:Name="slider" Margin="5" Height="30"/>
+            <TextBox Text="{Binding ElementName=slider,Path=Value,Mode=OneTime}" x:Name="textBox1" Margin="5" Height="30"/>
+            <TextBox Text="{Binding ElementName=slider,Path=Value,Mode=OneWay}" x:Name="textBox2" Margin="5" Height="30"/>
+            <TextBox Text="{Binding ElementName=slider,Path=Value,Mode=OneWayToSource}" x:Name="textBox3" Margin="5" Height="30"/>
+            <TextBox Text="{Binding ElementName=slider,Path=Value,Mode=TwoWay}" x:Name="textBox4" Margin="5" Height="30"/>
+            <TextBox Text="{Binding Name}" x:Name="textBox5" Margin="5" Height="30"/>
+        </StackPanel>
+    </Grid>
+</Window>
