@@ -17,3 +17,4 @@ IDE: vs 2022
 - WPFDemo6 命令(ICommand)
 - WPFDemo7 通知
 - WPFDemo8 ReactiveUI
+- WPFDemo9 资源基础
