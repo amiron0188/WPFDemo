@@ -19,3 +19,4 @@ IDE: vs 2022
 - WPFDemo8 ReactiveUI
 - WPFDemo9 资源基础
 - WPFDemo10 动画基础
+- WPFDemo11 导航功能
